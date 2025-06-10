@@ -1,0 +1,10 @@
+Kontinent,Gipfel,Höhe,Lage,Gebirge,Land,Erstbesteigung,LB,LM,LH
+Afrika,Kibo,5895 m,"3° 3′ 54″ S, 37° 21′ 33″ O",Kilimandscharo-Massiv,Tansania,"6. Okt. 1889 durch H. Meyer, L. Purtscheller",✔,✔,✔
+Antarktika,Mount Vinson,4892 m,"78° 31′ 31″ S, 85° 37′ 2″ W",Sentinel Range,– ∗,"17. Dez. 1966 durch N. Clinch, B. Corbet, J. Evans, W. Long, P. Schoening",✔,✔,✔
+Asien,Mount Everest,8848 m,"27° 59′ 17″ N, 86° 55′ 31″ O",Himalaya,"Volksrepublik China, Nepal","29. Mai 1953 durch E. Hillary, T. Norgay",✔,✔,✔
+Australien,Puncak Jaya,4884 m,"4° 5′ 0″ S, 137° 11′ 6″ O",Sudirman-Gebirge,Indonesien,"13. Feb. 1962 durch H. Harrer, A. Huizenga, R. Kippax, P. Temple",,✔,
+Australien,Mount Kosciuszko,2228 m,"36° 27′ 21″ S, 148° 15′ 48″ O",Great Dividing Range,Australien,15. Feb. 1840 durch P. de Strzelecki,✔,,✔
+Europa,Mont Blanc,4805 m,"45° 49′ 57″ N, 6° 51′ 52″ O",Alpen,"Frankreich, Italien","7. Aug. 1786 durch J. Balmat, M. Paccard",,,✔
+Europa,Elbrus,5642 m,"43° 21′ 18″ N, 42° 26′ 21″ O",Kaukasus,Russland,"28. Juli 1874 durch F. Gardiner, F. Grove, P. Knubel, H. Walker",✔,✔,
+Nordamerika,Denali ∗∗,6190 m,"63° 4′ 9″ N, 151° 0′ 28″ W",Alaskakette,Vereinigte Staaten,"7. Juni 1913 durch W. Harper, H. Karstens, H. Stuck, R. Tatum",✔,✔,✔
+Südamerika,Aconcagua,6961 m,"32° 39′ 12″ S, 70° 0′ 42″ W",Anden,Argentinien,14. Jan. 1897 durch M. Zurbriggen,✔,✔,✔

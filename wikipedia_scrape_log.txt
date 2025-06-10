@@ -1,0 +1,65 @@
+[OK] Seven_Summits - en: 4 tables found
+[OK] Seven_Summits - zh: 3 tables found
+[OK] Seven_Summits - de: 2 tables found
+[OK] Seven_Summits - it: 3 tables found
+[OK] Seven_Summits - nl: 1 tables found
+[ERROR] Seven_Summits - et: No tables found
+[OK] Eight-thousander - en: 13 tables found
+[OK] Eight-thousander - zh: 3 tables found
+[OK] Eight-thousander - de: 2 tables found
+[OK] Eight-thousander - it: 4 tables found
+[OK] Eight-thousander - nl: 2 tables found
+[OK] Eight-thousander - et: 1 tables found
+[OK] List_of_mountains_of_the_Alps_over_4000_metres - en: 3 tables found
+[MISSING] List_of_mountains_of_the_Alps_over_4000_metres - Language 'zh' page not found.
+[OK] List_of_mountains_of_the_Alps_over_4000_metres - de: 3 tables found
+[OK] List_of_mountains_of_the_Alps_over_4000_metres - it: 2 tables found
+[OK] List_of_mountains_of_the_Alps_over_4000_metres - nl: 1 tables found
+[MISSING] List_of_mountains_of_the_Alps_over_4000_metres - Language 'et' page not found.
+[OK] Lists_of_earthquakes - en: 13 tables found
+[OK] Lists_of_earthquakes - zh: 6 tables found
+[OK] Lists_of_earthquakes - de: 12 tables found
+[OK] Lists_of_earthquakes - it: 2 tables found
+[OK] Lists_of_earthquakes - nl: 1 tables found
+[ERROR] Lists_of_earthquakes - et: No tables found
+[OK] Highest_unclimbed_mountain_List_of_highest_unclimbed_peaks - en: 1 tables found
+[MISSING] Highest_unclimbed_mountain_List_of_highest_unclimbed_peaks - Language 'zh' page not found.
+[OK] Highest_unclimbed_mountain_List_of_highest_unclimbed_peaks - de: 1 tables found
+[MISSING] Highest_unclimbed_mountain_List_of_highest_unclimbed_peaks - Language 'it' page not found.
+[MISSING] Highest_unclimbed_mountain_List_of_highest_unclimbed_peaks - Language 'nl' page not found.
+[MISSING] Highest_unclimbed_mountain_List_of_highest_unclimbed_peaks - Language 'et' page not found.
+[OK] List_of_highest_mountains_on_Earth - en: 3 tables found
+[OK] List_of_highest_mountains_on_Earth - zh: 2 tables found
+[OK] List_of_highest_mountains_on_Earth - de: 7 tables found
+[MISSING] List_of_highest_mountains_on_Earth - Language 'it' page not found.
+[ERROR] List_of_highest_mountains_on_Earth - nl: No tables found
+[MISSING] List_of_highest_mountains_on_Earth - Language 'et' page not found.
+[OK] Lakes_of_Titan - en: 9 tables found
+[OK] Lakes_of_Titan - zh: 8 tables found
+[OK] Lakes_of_Titan - de: 1 tables found
+[OK] Lakes_of_Titan - it: 2 tables found
+[OK] Lakes_of_Titan - nl: 3 tables found
+[MISSING] Lakes_of_Titan - Language 'et' page not found.
+[OK] List_of_largest_lakes_of_Europe - en: 3 tables found
+[ERROR] List_of_largest_lakes_of_Europe - zh: No tables found
+[OK] List_of_largest_lakes_of_Europe - de: 1 tables found
+[OK] List_of_largest_lakes_of_Europe - it: 1 tables found
+[MISSING] List_of_largest_lakes_of_Europe - Language 'nl' page not found.
+[MISSING] List_of_largest_lakes_of_Europe - Language 'et' page not found.
+[OK] List_of_lakes_by_area - en: 6 tables found
+[OK] List_of_lakes_by_area - zh: 3 tables found
+[OK] List_of_lakes_by_area - de: 4 tables found
+[OK] List_of_lakes_by_area - it: 3 tables found
+[OK] List_of_lakes_by_area - nl: 2 tables found
+[OK] List_of_lakes_by_area - et: 3 tables found
+
+Total entities with at least 3 language pages: 8
+Entities meeting the criteria:
+https://en.wikipedia.org/wiki/Seven_Summits
+https://en.wikipedia.org/wiki/Eight-thousander
+https://en.wikipedia.org/wiki/List_of_mountains_of_the_Alps_over_4000_metres
+https://en.wikipedia.org/wiki/Lists_of_earthquakes
+https://en.wikipedia.org/wiki/List_of_highest_mountains_on_Earth
+https://en.wikipedia.org/wiki/Lakes_of_Titan
+https://en.wikipedia.org/wiki/List_of_largest_lakes_of_Europe
+https://en.wikipedia.org/wiki/List_of_lakes_by_area

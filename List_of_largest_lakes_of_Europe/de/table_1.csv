@@ -1,0 +1,163 @@
+[1],[2],Name,alternative Namen,Staat(en),Fläche [km²],Volu­men [km³],Tiefe [m],Tiefe [m],Anmerkungen / Fluss
+[1],[2],Name,alternative Namen,Staat(en),Fläche [km²],Volu­men [km³],max.,mittl.,Anmerkungen / Fluss
+1,O01,Ladogasee,"Ладожское озеро, Laatokka",Russland,17700,908,230,51,Vierzehntgrößter der Erde
+2,O02,Onegasee,"Onego, Онежское озеро, Ääninen, Äänisjärvi",Russland,9720,292,120,30,Achtzehntgrößter der Erde
+3,,Kuibyschewer Stausee,"Kuibyschewskoje Reservoir, Ку́йбышевское водохрани́лище",Russland,6450,573,34,8,Drittgrößter Stausee der Erde; Wolga
+4,N01,Vänern,,Schweden,5519,153,106,27,Größter in Schweden und in der EU
+5,,Rybinsker Stausee,"Rybinskoje Reservoir, Ры́бинское водохрани́лище",Russland,4580,254,28,56,Wolga
+,N02,Saimaa,Saimen,Finnland,4370,36,82,17,Größter in Finnland; Gruppe von kleineren Teilseen
+6,O03,Peipussee,"Peipsi-Pihkva järv, Чудско-Псковское озеро, Peipusa ezers","Estland, Russland",3555,25,153,71,Größter in Estland
+7,,Zimljansker Stausee,"Zimljanskoje Reservoir, Цимля́нское водохрани́лище",Russland,2700,239,35,89,Don
+8,,Krementschuker Stausee,Кременчуцьке водосховище,Ukraine,2252,135,28,6,Größter der Ukraine; Dnepr
+9,,Kachowkaer Stausee,Каховське водосховище,Ukraine,2155,182,26,84,Dnepr
+10,N03,Vättern,,Schweden,1886,735,120,395,
+11,,Saratower Stausee,Саратовское водохрани́лище,Russland,1831,129,,7,Wolga
+12,,Gorkier Stausee,Горьковское водохрани́лище,Russland,1590,871,22,55,Wolga
+13,,Etelä-Saimaa,,Finnland,1377,148,858,108,Größter Im Saimaa-Seensystem
+14,O12,Wygosero,"Выгозеро, Uikujärvi",Russland,1143,65,18,57,Ursprüngliche Fläche vor dem Bau des Damms: 560 km²
+15,W01,IJsselmeer,Lake Yssel,Niederlande,1137,53,55,46,"Größter der Niederlande, künstlich durch den Abschlussdeich geschaffen"
+16,O04,Weißer See,Белое озеро,Russland,1130,62,34,55,Nach anderen Angaben 1290 km²
+17,N04,Päijänne,,Finnland,1118,181,953,162,Tiefster in Finnland
+18,N05,Mälaren,,Schweden,1090,143,66,128,
+19,N06,Inarijärvi,"Inarijärvi, Enare träsk, Anárjávri, Aanaarjävri",Finnland,1084,155,92,143,
+20,,Kiewer Meer,Київське водосховище,Ukraine,992,373,8,38,Dnepr
+21,O05,Toposero,"Топозеро, Tuoppajärvi",Russland,986,149,56,152,
+22,O06,Ilmensee,"Ильмень, Ilmajärvi",Russland,982,var.,var.,var.,Größe stark schwankend (733–2090 km²)
+23,O07,Segosero,"Сегозеро, Seesjärvi",Russland,906,234,103,26,
+24,N07,Pielinen,,Finnland,894,90,61,101,
+25,N08,Oulujärvi,Ule träsk,Finnland,887,67,35,76,
+26,O08,Imandra,"Имандра, Imantero, Avvir",Russland,876,112,67,128,
+27,,Werchnetulomskoje,Верхнетуломское водохранилище,Russland,745,115,,154,"Ursprüngliche Fläche des Notosero-Sees: 78,9 km²; Tuloma"
+28,,Pihlajavesi,,Finnland,713,807,72,113,Im Saimaa-Seensystem
+29,W02,Markermeer,,Niederlande,700,21,5,3,Künstlich; durch den Markerwaarddijk vom IJsselmeer abgetrennt
+30,,Kaniwer Stausee,Канівське водосховище,Ukraine,675,262,19,39,Dnepr
+31,O09,Pjaosero,"Пяозеро, Pääjärvi",Russland,659,101,49,154,
+32,O10,Kowdosero,Ковдозеро,Russland,608,37,56,61,
+33,,Orivesi,,Finnland,601,551,74,92,Im Saimaa-Seensystem
+34,O11,Plattensee,Balaton,Ungarn,592,19,125,33,Größter in Mitteleuropa und in Ungarn
+35,W03,Genfersee,"Lac Léman, Lac de Genève","Schweiz, Frankreich",580,89,310,153,"Zweitgrößter in Mitteleuropa, größter der Schweiz und Frankreichs"
+36,,Kamjansker Stausee,Кам'янське водосховище,Ukraine,567,245,15,43,Dnepr
+37,,Haukivesi,,Finnland,562,511,55,91,Im Saimaa-Seensystem
+,,Bodensee (Obersee + Untersee),Lac de Constance,"Deutschland, Schweiz, Österreich",536,484,251,90,2 hydrologisch eigenständige Seen
+38,N09,Keitele,,Finnland,498,343,66,69,
+39,N10,Kallavesi,,Finnland,478,461,75,96,
+40,N11,Hjälmaren,,Schweden,477,301,20,62,
+41,W04,Obersee (Bodensee),Lac de Constance,"Deutschland, Schweiz, Österreich",473,476,251,101,"Drittgrößter in Mitteleuropa, größter in Deutschland"
+42,N12,Storsjön,,Schweden,456,802,74,174,
+43,O13,Umbosero,Умбозеро,Russland,422,63,115,15,
+44,,Puruvesi,,Finnland,416,365,61,88,Im Saimaa-Seensystem
+45,O14,Wosche,,Russland,416,108,5,26,
+46,O15,Kubenasee,Кубенское озеро,Russland,407,10,5,25,
+47,N13,Lough Neagh,Loch nEathach,Vereinigtes Königreich,396,36,25,9,Größter der britischen Inseln
+48,,Scheksninskoje,Шекснинское озеро,Russland,380,,,,
+49,S01,Skutarisee,"Skadar Lake, Skadarsko jezero, Скадарско језеро, Liqeni i Shkodrës","Albanien, Montenegro",370–530,var.,var.,var.,Größter der Balkanhalbinsel; Größe stark schwankend
+50,S02,Gardasee,Lago di Garda,Italien,370,493,346,133,Größter in Italien
+51,N14,Mjøsa,,Norwegen,365,5624,449,154,Größter in Norwegen
+52,,Pyhäselkä,,Finnland,361,316,67,88,Im Saimaa-Seensystem
+53,S03,Ohrid,"Охридско Езеро, Ohridsko Ezero, Liqeni i Ohrit","Albanien, Nordmazedonien",358,554,288,155,Größter in Nordmazedonien
+54,,Manytsch-Gudilo,Маныч-Гудило,Russland,344,021,,06,"Salzsee, Größe vor Bau des Damms stark variierend"
+55,O16,Latscha,"Lache, Ла́ча, Ла́че",Russland,334,055,54,16,
+56,N15,Puula,,Finnland,331,306,69,92,
+57,N16,Torneträsk,"Duortnosjávri, Torniojärvi",Schweden,330,171,168,518,
+58,,Iwankowoer Stausee,"Iwankowskoje Reservoir, Ива́ньковское водохрани́лище",Russland,327,112,19,4,Wolga
+59,O17,Wodlosero,"Водлозеро, Vodlajärvi",Russland,322,103,16,31,
+60,,Lokka-Stausee,Lokan tekojärvi,Finnland,315,12,12,38,Größter Stausee in Finnland; Luiro
+61,W05,Neusiedler See,Fertő tó,"Österreich, Ungarn",315,032,2,1,"Viertgrößter in Mitteleuropa, größter in Österreich"
+62,N17,Siljan,,Schweden,293,809,134,278,Größter in einem Einschlagkrater
+63,N18,Höytiäinen,,Finnland,283,319,59,113,
+64,O18,Sredneje Kuito,"Среднее Куйто, Keski-Kuittijärvi",Russland,276,30,34,108,
+65,S04,Prespasee,"Преспанското Езеро, Μεγάλη Πρέσπα, Liqeni i Prespës","Albanien, Griechenland, Nordmazedonien",273,,54,,
+66,N19,Wirzsee,"Vertsjervs, Võrtsjärv",Estland,270,076,6,28,
+67,O19,Sjamosero,"Сямозеро, Säämäjärvi, Seämärvi",Russland,266,179,245,67,
+68,N20,Hornavan,,Schweden,262,1123,221,458,
+69,,Stausee Akkajaure,,Schweden,260,59,92,23,Stora Luleälven
+70,N21,Näsijärvi,,Finnland,255,348,61,137,
+71,,Eisernes Tor,Đerdap,"Serbien, Rumänien",253,24,,95,Größter in Serbien; Donau
+72,,Alqueva-Stausee,Barragem de Alqueva,Portugal,250,415,,166,Größter in Portugal; Guadiana
+73,,Uglitscher Stausee,"Uglitschskoje Reservoir, У́гличское водохрани́лище",Russland,249,12,,48,Wolga
+74,N22,Uddjaure,,Schweden,249,,,,
+75,N23,Pyhäjärvi,Пюхяярви,"Finnland, Russland",248,20,27,8,In Karelien
+76,N24,Yli-Kitka,,Finnland,237,156,42,66,
+77,N25,Suvasvesi,,Finnland,234,243,90,104,Liegt in einem zweifachen Einschlagkrater
+78,O20,Tikschosero,"Тикшозеро, Tiiksjärvi, Tiikšenjärvi",Russland,232,167,40,8,
+79,N26,Kemijärvi,,Finnland,231,115,24,5,
+80,,Pirengskoje-Stausee,Пиренгское водохранилище,Russland,227,30,,132,Pirenga
+81,O21,Keret,"Кереть, Kierettijärvi",Russland,223,10,60,45,
+82,N27,Juojärvi,,Finnland,220,197,51,9,
+83,N28,Røssvatnet,Reevhtse,Norwegen,219,148,240,676,
+84,W06,Neuenburgersee,Lac de Neuchâtel,Schweiz,218,1377,152,63,Größter innerhalb der Schweiz
+85,S05,Lago Maggiore,Langensee,"Italien, Schweiz",213,37,372,174,
+86,O22,Seligersee,Селигер,Russland,212,123,24,58,
+87,O23,Njuk,"Нюк, Nuokkijärvi",Russland,211,181,40,86,
+88,N29,Femundsee,,Norwegen,204,604,231,296,
+89,O24,Lowosero,"Ловозеро, Луяввьр, Luujäuˊrr, Lujávri, Luujärvi",Russland,200,114,35,57,
+90,O25,Werchneje Kuito,"Верхнее Куйто, Ylä-Kuittijärvi",Russland,198,15,44,76,
+91,,Enonvesi,,Finnland,197,148,468,71,Im Saimaa-Seensystem
+92,N30,Konnevesi,,Finnland,189,20,571,101,
+93,N31,Kiantajärvi,,Finnland,188,139,43,74,
+94,O26,Ondosero,Ontajärvi,Russland,182,06,8,33,
+95,N32,Lough Corrib,,Irland,176,114,509,65,Größter in Irland
+96,O27,Janisjarwi,Jänisjärvi,Russland,175,20,57,116,Liegt in einem Einschlagkrater
+97,N33,Bolmen,,Schweden,173,107,37,62,
+98,N34,Storuman,,Schweden,171,419,122,245,
+99,S06,Mar Menor,,Spanien,170,06,7,4,"Salzsee, größter See in Spanien"
+100,N35,Nilakka,,Finnland,169,082,217,49,
+101,O28,Leksosero,Лексозеро,Russland,166,141,34,85,
+102,N36,Koitere,,Finnland,164,11,465,67,
+103,N37,Iisvesi-Rasvanki-Virmasvesi,,Finnland,164,,345,,
+104,N38,Stora Lulevatten,,Schweden,163,131,285,8,
+105,N39,Kallsjön,,Schweden,159,614,134,39,
+106,N40,Juurusvesi–Akonvesi,,Finnland,157,13,62,83,
+107,W07,Étang de Berre,"estanh de Bèrra, mar de Bèrra",Frankreich,155,09,,58,
+108,N41,Pyhäjärvi,,Finnland,155,085,26,55,In Satakunta / Varsinais-Suomi
+109,N42,Kivijärvi,,Finnland,154,129,438,84,
+110,O29,Eltonsee,Эльтон,Russland,150,006,06,04,
+111,,Porttipahta-Stausee,Porttipahdan tekojärvi,Finnland,149,066,,44,Kitinen
+112,O30,Jalpuhsee,Озеро Ялпуг,Ukraine,149,038,6,26,Größter natürlicher See der Ukraine
+113,N43,Åsnen,,Schweden,148,046,173,31,
+114,S07,Comer See,Lago di Como,Italien,146,234,425,160,
+115,N44,Ströms Vattudal,,Schweden,146,26,73,178,
+116,N45,Lappajärvi,,Finnland,145,101,360,69,Liegt in einem Einschlagkrater
+117,N46,Suontee,,Finnland,143,07,436,49,
+118,O31,Nischneje Kuito,"Нижнее Куйто, Ala-Kuittijärvi",Russland,141,133,33,94,
+119,N47,Randsfjord,Randsfjorden,Norwegen,139,731,120,526,
+120,N48,Tyrifjord,Tyrifjorden,Norwegen,138,1313,330,948,
+121,N49,Stora Le und Foxen,Stora Le och Foxen,Schweden,136,,,,
+122,N50,Viinijärvi,,Finnland,135,079,583,58,
+,,Dellen,,Schweden,134,271,,202,2 Teilseen: Süd-Dellen 52 km² und Nord-Dellen 82 km²
+123,N52,Längelmävesi,,Finnland,133,091,593,68,
+124,N53,Skagern,,Schweden,132,322,77,252,
+125,N54,Sommen,,Schweden,130,221,53,17,
+126,N55,Kyyvesi,,Finnland,130,057,352,44,
+127,S08,Trasimenischer See,Lago Trasimeno,Italien,128,058,6,45,
+128,,Theiß-See,"Kisköre Reservoir, Tisza-tó, Kiskörei-víztározó",Ungarn,127,017,17,13,Theiß
+129,,Oskilsker Stausee,"Оскільське водосховище, Оскольское водохранилище",Ukraine,123,047,19,38,Oskol
+130,N56,Pyhäjärvi,,Finnland,122,077,27,63,In Nordösterbotten
+131,N57,Pyhäjärvi,,Finnland,122,067,46,55,In Pirkanmaa
+132,O32,Engosero,Энгозеро,Russland,122,055,18,45,
+133,O33,Kolwizkoje,Колвицкое озеро,Russland,121,145,20,12,
+134,N58,Snåsavatnet,,Norwegen,120,55,121,46,
+135,N59,Vanajavesi,,Finnland,119,095,239,8,
+136,N60,Lough Derg,Loch Deirgeirt,Irland,118,089,36,76,
+137,N61,Keurusselkä,,Finnland,117,054,41,46,
+138,O34,Baskuntschak,Баскунчак,Russland,115,035,,3,
+139,S09,Bolsenasee,Lago di Bolsena,Italien,114,92,151,81,
+140,O35,Śniardwy,Spirdingsee,Polen,114,066,234,58,Größter in Polen
+141,W09,Vierwaldstättersee,,Schweiz,114,118,214,104,
+142,N62,Onkivesi,,Finnland,114,036,365,32,
+143,W08,Müritz,(Die) Müritz,Deutschland,113,074,31,65,Größter innerhalb von Deutschland
+144,N63,Virihaure,,Schweden,112,443,138,394,
+145,N64,Mallasvesi–Roine,,Finnland,110,079,38,71,2 Teilseen
+146,N65,Pielavesi,,Finnland,110,,29,,
+147,N66,Vesijärvi,,Finnland,108,065,40,61,
+148,O36,Vuoksa,"Вуокса, Käkisalmenselkä",Russland,108,,,,Vuoksi
+149,,Wyschnewolozkoje,Вышневолоцкое водохранилище,Russland,108,,,,Shlina (Шлина)
+150,N67,Lower Lough Erne,Loch Éirne,"Vereinigtes Königreich, Irland",105,126,155,12,
+151,N68,Lough Ree,Loch Rí,Irland,105,065,35,62,
+152,N69,Ontojärvi–Nurmesjärvi,,Finnland,105,060,29,58,
+153,O37,Mamry,Mauersee,Polen,104,101,438,98,
+154,N70,Kolima,,Finnland,101,087,663,86,
+155,N71,Tunnsjøen,Dåtnejaevrie,Norwegen,100,868,220,87,
+,,Fryken,,Schweden,100,,,,"3 miteinander verbundene Seen: Övre Fryken 41,5 km², Mellan-Fryken 46,7 km² und Nedre Fryken 12,5 km²"
+[1],[2],Name,alternative Namen,Staat(en),Fläche (km²),Volumen (km³),max.,mittl.,Anmerkungen
+[1],[2],Name,alternative Namen,Staat(en),Fläche (km²),Volumen (km³),Tiefe (m),Tiefe (m),Anmerkungen

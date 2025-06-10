@@ -1,0 +1,103 @@
+Rang,Name,Staat(en),Fläche (km²),Länge (km),max. Tiefe (m),Volumen (km³),Höhe (üM) (m),Abfluss
+1.0,Kaspisches Meer,"Aserbaidschan, Russland, Kasachstan, Turkmenistan, Iran",386.4,1.199,995.0,78.2,−28,abflusslos
+2.0,Oberer See,"USA, Kanada",82.414,616.0,405.0,12.1,184,Saint Marys River
+3.0,Victoriasee,"Kenia, Tansania, Uganda",68.894,322.0,84.0,2.75,1.135,Victoria-Nil
+4.0,Huronsee,"USA, Kanada",59.596,397.0,229.0,3.54,176,St. Clair River
+5.0,Michigansee,USA,58.016,517.0,282.0,4.918,176,Huronsee
+6.0,Tanganjikasee,"Tansania, DR Kongo, Sambia, Burundi",32.893,676.0,1.47,18.9,782,Lukuga
+7.0,Baikalsee,Russland,31.722,636.0,1.642,23.615,455,Angara
+8.0,Großer Bärensee,Kanada,31.328,373.0,446.0,2.236,156,Großer Bärenfluss
+9.0,Malawisee,"Malawi, Mosambik, Tansania",29.6,579.0,706.0,8.4,474,Shire
+10.0,Großer Sklavensee,Kanada,28.568,480.0,614.0,2.09,156,Mackenzie River
+11.0,Eriesee,"USA, Kanada",25.719,388.0,64.0,489.0,174,Niagara River
+12.0,Winnipegsee,Kanada,24.387,425.0,18.0,283.0,218,Nelson River
+13.0,Ontariosee,"USA, Kanada",19.477,311.0,244.0,1.639,75,Sankt-Lorenz-Strom
+14.0,Ladogasee,Russland,17.7,219.0,230.0,908.0,4,Newa
+15.0,Balchaschsee,Kasachstan,16.996,605.0,26.0,106.0,342,abflusslos
+16.0,Wostoksee,Antarktis,15.69,250.0,1.0,5.4,−280,abflusslos
+17.0,Onegasee,Russland,9.894,248.0,120.0,280.0,33,Swir
+18.0,Titicacasee,"Bolivien, Peru",8.372,177.0,281.0,893.0,3.812,Río Desaguadero
+19.0,Nicaraguasee,Nicaragua,8.264,177.0,26.0,108.0,31,Río San Juan
+20.0,Athabascasee,Kanada,7.935,335.0,243.0,204.0,213,Slave River
+21.0,Reindeer Lake,Kanada,6.65,245.0,337.0,179.0,337,Reindeer River
+22.0,Turkanasee,"Kenia, Äthiopien",6.405,248.0,109.0,204.0,375,abflusslos
+23.0,Yssykköl,Kirgisistan,6.236,182.0,668.0,1.738,1.607,abflusslos
+24.0,Vänern,Schweden,5.648,140.0,106.0,153.0,44,Göta älv
+25.0,Nettilling Lake,Kanada,5.542,123.0,132.0,,30,Koukdjuak River
+26.0,Lake Winnipegosis,Kanada,5.374,245.0,18.0,,254,Waterhen River
+27.0,Albertsee,"Uganda, DR Kongo",5.347,161.0,58.0,280.0,619,Albert-Nil
+28.0,Urmiasee,Iran,5.18,130.0,16.0,,1.280,abflusslos
+29.0,Mwerusee,"Sambia, DR Kongo",5.12,131.0,27.0,382.0,931,Luvua
+30.0,Lake Nipigon,Kanada,4.848,,165.0,248.0,260,Nipigon River
+31.0,Lake Manitoba,Kanada,4.624,200.0,7.0,141.0,247,Fairford River
+32.0,Taimyrsee,Russland,4.56,250.0,26.0,128.0,6,Taimyra
+33.0,Qinghaisee,Volksrepublik China,4.489,108.0,27.0,1196.0,3.194,abflusslos
+34.0,Lake of the Woods,"Kanada, USA",4.39,120.0,64.0,,322,Winnipeg River
+35.0,Saimaa,Finnland,4.377,,85.0,36.0,76,Vuoksi
+36.0,Chankasee,"Russland, Volksrepublik China",4.07,80.0,106.0,183.0,68,Sungatscha
+37.0,Lake Dubawnt,Kanada,3.833,,,,236,Dubawnt River
+38.0,Vansee,Türkei,3.713,120.0,457.0,576.0,1.648,abflusslos
+39.0,Tanasee,Äthiopien,3.628,84.0,14.0,24.0,1.786,Blauer Nil
+40.0,Peipussee,"Estland, Russland",3.555,143.0,14.0,25.0,30,Narva
+41.0,Westlicher Aralsee 1),"Kasachstan, Usbekistan",3.5,,40.0,,29,abflusslos
+42.0,Uws Nuur,Mongolei,3.341,85.0,20.0,357.0,753,abflusslos
+43.0,Nördlicher Aralsee 1),Kasachstan,3.3,,42.0,27.0,42,durch Kokaral-Damm
+44.0,Amadjuak Lake,Kanada,3.115,80.0,,,113,Amadjuak River
+45.0,Kiwusee,"DR Kongo, Ruanda",2.693,89.0,450.0,500.0,1.462,Rusizi
+46.0,Wollaston Lake,Kanada,2.681,,71.0,75.0,398,Fond du Lac River
+47.0,Alaköl,Kasachstan,2.65,,54.0,586.0,347,Ürschar
+48.0,Iliamna Lake,USA,2.622,120.0,301.0,115.0,14,Kvichak River
+49.0,Chöwsgöl Nuur,Mongolei,2.62,136.0,262.0,381.0,1.624,Egiin Gol
+50.0,Lac Mistassini,Kanada,2.335,150.0,180.0,150.0,372,Rivière Rupert
+51.0,Eduardsee,"DR Kongo, Uganda",2.325,65.0,112.0,39.0,920,Semliki
+52.0,Hulun Nur,Volksrepublik China,2.315,93.0,9.0,,539,Argun (Amur)
+53.0,Nueltin Lake,Kanada,2.279,144.0,,,278,Thlewiaza River
+54.0,Tai Hu,Volksrepublik China,2.253,,48.0,,0,Jangtsekiang
+55.0,Southern Indian Lake,Kanada,2.247,,30.0,234.0,254,Churchill River (Hudson Bay)
+56.0,90-Grad-Ost-See,Antarktis,2.0,,900.0,,,abflusslos
+57.0,Hongze Hu,Volksrepublik China,1.96,,,135.0,15,Huai He
+58.0,Vättern,Schweden,1.893,125.0,119.0,77.0,88,Motala ström
+59.0,Lake Okeechobee,USA,1.89,56.0,4.0,52.0,4,Everglades
+60.0,Baker Lake,Kanada,1.887,,,,2,Thelon River
+61.0,Nam Co,Volksrepublik China,1.87,70.0,33.0,768.0,4.718,abflusslos
+62.0,Lago Buenos Aires,"Chile, Argentinien",1.85,,590.0,,217,Río Baker
+63.0,Lac la Martre,Kanada,1.776,70.0,,,265,Rivière la Martre
+64.0,Kyogasee,Uganda,1.72,200.0,57.0,,1.033,Kyoga-Nil
+65.0,Lac Seul,Kanada,1.657,241.0,47.0,,357,English River (Winnipeg River)
+66.0,Sêrling Co,Volksrepublik China,1.64,72.0,33.0,,4.530,abflusslos
+67.0,Sowetskajasee,Antarktis,1.6,,900.0,,1.120,abflusslos
+68.0,Tengis Ozero,Kasachstan,1.59,75.0,8.0,,305,abflusslos
+69.0,Char Us Nuur,Mongolei,1.578,722.0,45.0,312.0,1.157,Tschono Charaich Gol
+70.0,Tuz Gölü,Türkei,1.5,80.0,2.0,,925,abflusslos
+71.0,Lago Argentino,Argentinien,1.466,,500.0,2199.0,187,Río Santa Cruz
+72.0,Yathkyed Lake,Kanada,1.449,70.0,,,140,Kazan River
+73.0,Lake Claire,Kanada,1.436,59.0,2.0,17.0,213,Peace River
+74.0,Cree Lake,Kanada,1.434,,60.0,176.0,487,Cree River
+75.0,Lac la Ronge,Kanada,1.413,,42.0,176.0,364,Rapid River
+76.0,Chjargas Nuur,Mongolei,1.407,75.0,80.0,752.0,1.028,abflusslos
+77.0,Lac à l’Eau Claire,Kanada,1.383,71.0,178.0,,241,Rivière à l’Eau Claire
+78.0,Cedar Lake,Kanada,1.353,,10.0,102.0,253,Saskatchewan River
+79.0,Kasba Lake,Kanada,1.341,70.0,,,336,Kazan River
+80.0,Poopósee,Bolivien,1.34,84.0,5.0,402.0,3.686,abflusslos
+81.0,Sewansee,Armenien,1.272,78.0,797.0,332.0,1.900,Hrasdan
+82.0,Lac Bienville,Kanada,1.249,,,,426,Grande rivière de la Baleine
+83.0,Island Lake,Kanada,1.223,,594.0,218.0,227,Beaver Hill Lake
+84.0,Chilwasee,"Malawi, Mosambik",1.218,60.0,2.0,18.0,627,abflusslos
+85.0,Becharof Lake,USA,1.173,60.0,180.0,,4,Egegik River
+86.0,Kleiner Sklavensee,Kanada,1.168,97.0,205.0,1369.0,577,Lesser Slave River
+87.0,Gods Lake,Kanada,1.151,80.0,753.0,138.0,181,Gods River
+88.0,Abajasee,Äthiopien,1.15,72.0,24.0,82.0,1.285,Chamosee
+89.0,Tobasee,Indonesien,1.146,100.0,505.0,240.0,904,Asahan
+90.0,Mälaren,Schweden,1.14,115.0,66.0,143.0,0,Södertälje-Kanal
+91.0,Lake Champlain,"USA, Kanada",1.139,201.0,121.0,258.0,30,Richelieu
+92.0,Beloje Ozero,Russland,1.125,46.0,33.0,62.0,113,Scheksna
+93.0,Lake St. Clair,"Kanada, USA",1.114,42.0,82.0,4.0,175,Detroit River
+94.0,Chapalasee,Mexiko,1.112,80.0,12.0,81.0,1.520,Río Grande de Santiago
+95.0,Lake Aberdeen,Kanada,1.1,90.0,,,80,Thelon River
+96.0,Napaktulik Lake,Kanada,1.08,60.0,,,381,Fairy Lake River
+97.0,Päijänne,Finnland,1.08,120.0,95.0,18.0,78,Kalkkistenkoski
+98.0,MacKay Lake,Kanada,1.061,112.0,,,431,Lockhart River
+99.0,Managuasee,Nicaragua,1.049,65.0,20.0,,39,Río Tipitapa
+100.0,Inarisee,Finnland,1.04,80.0,92.0,155.0,118,Paatsjoki
+101.0,Lago O’Higgins/ Lago San Martín,"Chile, Argentinien",1.013,,836.0,,250,Río Pascua
+102.0,Lac St. Jean,Kanada,1.003,438.0,63.0,119.0,98,La Grande Décharge
