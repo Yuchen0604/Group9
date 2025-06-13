@@ -55,7 +55,21 @@ def main():
         f.write('\n')
 
     # Save aggregated column names to CSV
-    df_column_summary.to_csv('aggregated_columns_by_language.csv', index=False)
+    # df_column_summary.to_csv('aggregated_columns_by_language.csv', index=False)
+    # Save aggregated column names to normalized CSV
+    max_columns = max(len(row['Columns'].split(', ')) for row in column_summary)
+
+    normalized_rows = []
+    for row in column_summary:
+        cols = row['Columns'].split(', ')
+        padded_cols = cols + [''] * (max_columns - len(cols))
+        normalized_row = {'Directory': row['Directory']}
+        for i, col in enumerate(padded_cols):
+            normalized_row[f'column{i+1}'] = col
+        normalized_rows.append(normalized_row)
+
+    df_normalized = pd.DataFrame(normalized_rows)
+    df_normalized.to_csv('aggregated_columns_by_language.csv', index=False)
 
     # Plot with different colors for each bar
     plt.figure(figsize=(10, 6))
